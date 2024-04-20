@@ -4,6 +4,9 @@
 <br><br>
 I am a student enrolled at National Taiwan University, specializing in psychology with a minor in foreign languages and literatures. I find great satisfaction in tackling intricate challenges and dedicating myself to discovering viable solutions. My aspiration is to pursue a career as a software engineer. I was recently admitted to the Data Science and Smart Networking group of the Graduate Institute of Communication Engineering at National Taiwan University.
 
+### Internship Notes
+🔬 [【中研院NPAS暑期實習】2022來去研究一夏神經](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/2022_NPAS_Summer_Intern/%2FRI5wx3ZcThut43bqFk__Eg)
+
 ### Courses I've taken in NTU
 
 | Programming Languages | Basic Courses | Advanced Courses |
@@ -13,7 +16,7 @@ I am a student enrolled at National Taiwan University, specializing in psycholog
 ## Profile Details
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleeping-psystudent&theme=discord_old_blurple)
 
-## GitHub Stats
+### GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sleeping-psystudent&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sleeping-psystudent&theme=discord_old_blurple)
 
